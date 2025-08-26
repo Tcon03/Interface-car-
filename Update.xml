@@ -8,7 +8,8 @@
 
     <!-- Ghi chú thay đổi -->
     <changelog></changelog>
-
+    
     <!-- Cập nhật không bắt buộc -->
     <mandatory>false</mandatory>
+    <checksum algorithm="SHA256">PASTE_SHA256_HERE</checksum>
 </item>
